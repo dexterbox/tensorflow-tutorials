@@ -1,9 +1,0 @@
-{
-  "url": "http://127.0.0.1:51482/user/enginius/",
-  "hostname": "127.0.0.1",
-  "port": 51482,
-  "base_url": "/user/enginius/",
-  "secure": false,
-  "pid": 1366,
-  "notebook_dir": "/home/enginius"
-}
