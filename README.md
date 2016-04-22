@@ -13,9 +13,10 @@ by sungjoon choi (@sungjoon.cho@cpslab.snu.ac.kr)
 7. Convolutional Auto-Encoder (CAE)
 
 and followings will be included
-rnn (lstm)
-word embedding
-yolo
-weakly supervised detection
+- rnn (lstm)
+- word embedding
+- yolo
+- weakly supervised detection
 
-## NOTE: MISSING CREDITS OF MOST OF THE CODES! CREDITS WILL BE UPDATED SOON!
+## NOTE: MISSING CREDITS OF MOST OF THE CODES! 
+## CREDITS WILL BE UPDATED SOON!
