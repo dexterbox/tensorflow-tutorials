@@ -12,7 +12,7 @@
 7. Convolutional Auto-Encoder (CAE)
 8. Global Average Pooling (GAP) for weakly supervised localization 
 
-and followings will be included
+#### and followings will be included
 - rnn (lstm)
 - word embedding
 - yolo
