@@ -1,6 +1,6 @@
 # tensorflow-notebook-tutorials
 ## TensorFlow Tutorials using Jupyter Notebook 
-####### by sungjoon choi (@sungjoon.cho@cpslab.snu.ac.kr)
+###### by Sungjoon Choi (@sungjoon.cho@cpslab.snu.ac.kr)
 
 
 1. Baic image load, plot, resize, grayscale, etc
