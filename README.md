@@ -11,9 +11,9 @@
 6. Convolutional Neural Network (CNN)
 7. Convolutional Auto-Encoder (CAE)
 8. Global Average Pooling (GAP) for weakly supervised localization 
+9. Recurrent Neural Network (RNN) with MNIST
 
 #### and followings will be included
-- rnn (lstm)
 - word embedding
 - yolo
 
