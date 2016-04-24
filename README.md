@@ -1,4 +1,3 @@
-# tensorflow-notebook-tutorials
 ## TensorFlow Tutorials using Jupyter Notebook 
 ###### by Sungjoon Choi (@sungjoon.cho@cpslab.snu.ac.kr)
 
