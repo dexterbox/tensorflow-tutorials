@@ -17,4 +17,5 @@
 - word embedding
 - yolo
 
-#### NOTE: MISSING CREDITS OF MOST OF THE CODES! CREDITS WILL BE UPDATED SOON!
+##### Most of the codes are inspired by [Aymeric Damien's Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/)
+##### NOTE: MISSING CREDITS WILL BE UPDATED SOON!
