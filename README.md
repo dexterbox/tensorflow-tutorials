@@ -10,7 +10,7 @@
 6. Convolutional Neural Network (CNN) with [simple mnist](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/cnn_mnist_simple.ipynb), [basic mnist](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/cnn_mnist_simple.ipynb), [simple custom data](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/cnn_customdata_simple.ipynb), and [basic custom data](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/cnn_customdata_basic.ipynb)
 7. [Convolutional Auto-Encoder (CAE)](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/cae_mnist.ipynb)
 8. Global Average Pooling (GAP) for weakly supervised localization with [mnist](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/gap_mnist.ipynb)
-9. Recurrent Neural Network (RNN) with [MNIST](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/rnn_mnist_simple.ipynb)
+9. Recurrent Neural Network (RNN) with [mnist](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/rnn_mnist_simple.ipynb)
 
 #### and followings will be included
 - word embedding
