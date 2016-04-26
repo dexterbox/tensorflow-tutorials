@@ -11,6 +11,7 @@
 7. Convolutional Auto-Encoder (CAE) with [MNIST](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/cae_mnist.ipynb)
 8. Global Average Pooling (GAP) for weakly supervised localization with [MNIST](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/gap_mnist.ipynb)
 9. Recurrent Neural Network (RNN) with [MNIST](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/rnn_mnist_simple.ipynb)
+10. Visualization with TensorBoard: [LinearReg](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_linear_regression.ipynb), [LogReg](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_logistic_regression_mnist.ipynb), [MLP](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_mlp_mnist.ipynb), [CNN](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_cnn_mnist.ipynb), and [RNN](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_rnn_mnsit.ipynb)
 
 #### and followings will be included
 - word embedding
