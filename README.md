@@ -1,5 +1,5 @@
 ## TensorFlow Tutorials using Jupyter Notebook 
-###### by Sungjoon Choi (@sungjoon.cho@cpslab.snu.ac.kr)
+###### by [Sungjoon Choi](enginius.tistory.com) 
 
 
 1. Baic [image load, plot, resize, grayscale](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/basic_imgprocess.ipynb), [generating dataset from images in folders](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/basic_gendataset.ipynb), [MNIST](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/basic_mnist.ipynb), and [tensorflow](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/basic_tensorflow.ipynb)
